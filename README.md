@@ -2,7 +2,7 @@
 A program for a text based bank application using OOP principles.
 
 Creator: Bulbul Arora
-Project for CS 115: Object-Oriented Design course
+Project for: Object-Oriented Design course
 Instructor: Mikhail Shchukin
 Department of Computer Science
 University of Regina
